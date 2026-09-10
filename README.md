@@ -12,6 +12,3 @@ PHP 8.1+
 Composer
 MySQL or compatible database
 Node.js & npm (for frontend assets)
-
-License
-This project is open-source and available under the MIT license.
